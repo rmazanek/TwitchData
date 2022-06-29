@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RepositoryUrl>https://github.com/lay295/TwitchDownloader</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Authors>Lewis Pardo</Authors>
+    <Version>1.1.6</Version>
+    <Platforms>AnyCPU;x64</Platforms>
+    <LangVersion>default</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HarfBuzzSharp.NativeAssets.Linux" Version="2.6.1.8" />
+    <PackageReference Include="Mono.Posix.NETStandard" Version="1.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="SkiaSharp" Version="2.80.2" />
+    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.80.2" />
+    <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="2.80.2" />
+    <PackageReference Include="StoneCold.SkiaSharp.NativeAssets.AlpineLinux" Version="2.80.2" />
+    <PackageReference Include="System.Text.Json" Version="6.0.2" />
+  </ItemGroup>
+
+</Project>

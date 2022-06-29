@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "broadcaster_id": "30923466",
+      "broadcaster_name": "DanGheesling",
+      "created_at": "2022-06-22T16:24:38Z",
+      "creator_id": "25023136",
+      "creator_name": "zenakux2",
+      "duration": 58.4,
+      "embed_url": "https://clips.twitch.tv/embed?clip=PoliteSmoothKumquatSoonerLater-_rcM9ps6ZVVWLI8X",
+      "game_id": "512953",
+      "id": "PoliteSmoothKumquatSoonerLater-_rcM9ps6ZVVWLI8X",
+      "language": "en",
+      "thumbnail_url": "https://clips-media-assets2.twitch.tv/AT-cm%7ChaM-q_63DPabOmVVViyPFw-preview-480x272.jpg",
+      "title": "streamer goes insane",
+      "url": "https://clips.twitch.tv/PoliteSmoothKumquatSoonerLater-_rcM9ps6ZVVWLI8X",
+      "video_id": "1510885857",
+      "view_count": 216257
+    },
+    {
+      "broadcaster_id": "30923466",
+      "broadcaster_name": "DanGheesling",
+      "created_at": "2022-06-29T16:30:41Z",
+      "creator_id": "232505597",
+      "creator_name": "TEditsV2",
+      "duration": 35.7,
+      "embed_url": "https://clips.twitch.tv/embed?clip=EnergeticBraveLorisPJSalt-GoW0l1BZfoCoDgwq",
+      "game_id": "512953",
+      "id": "EnergeticBraveLorisPJSalt-GoW0l1BZfoCoDgwq",
+      "language": "en",
+      "thumbnail_url": "https://clips-media-assets2.twitch.tv/AT-cm%7CMporiRqFtJdQWX6AqA4MKg-preview-480x272.jpg",
+      "title": "After 2469x Deaths, Streamer Dies With 1 Hit Left",
+      "url": "https://clips.twitch.tv/EnergeticBraveLorisPJSalt-GoW0l1BZfoCoDgwq",
+      "video_id": "1517444713",
+      "view_count": 55535
+    },
+    {
+      "broadcaster_id": "30923466",
+      "broadcaster_name": "DanGheesling",
+      "created_at": "2022-04-06T18:21:55Z",
+      "creator_id": "148095285",
+      "creator_name": "Nick_Mik",
+      "duration": 31.6,
+      "embed_url": "https://clips.twitch.tv/embed?clip=LongObservantSwanBatChest-wencV1_SKPktZxJv",
+      "game_id": "509658",
+      "id": "LongObservantSwanBatChest-wencV1_SKPktZxJv",
+      "language": "en",
+      "thumbnail_url": "https://clips-media-assets2.twitch.tv/AT-cm%7Cr_nuisHp3Fdf0ij5LWcSbw-preview-480x272.jpg",
+      "title": "Dan beats Radahn after 281 attempts ",
+      "url": "https://clips.twitch.tv/LongObservantSwanBatChest-wencV1_SKPktZxJv",
+      "video_id": "",
+      "view_count": 26431
+    }
+  ],
+  "pagination": {
+    "cursor": "eyJiIjpudWxsLCJhIjp7IkN1cnNvciI6Ik13PT0ifX0"
+  }
+}

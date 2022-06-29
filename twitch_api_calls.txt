@@ -1,0 +1,3 @@
+twitch api get /clips -q broadcaster_id=30923466 -q first=3
+
+twitch api get /videos -q user_id=30923466 -q first=26 -q type="archive"
