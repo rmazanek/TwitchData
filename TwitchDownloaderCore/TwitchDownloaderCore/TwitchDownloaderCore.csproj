@@ -9,6 +9,8 @@
     <Version>1.1.6</Version>
     <Platforms>AnyCPU;x64</Platforms>
     <LangVersion>default</LangVersion>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
   </PropertyGroup>
 
   <ItemGroup>
